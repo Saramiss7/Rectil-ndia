@@ -1,0 +1,15 @@
+Shortest route from Bellestarrufat del Sapastre to Vilabru del Clar
+-> Bellestarrufat del Sapastre -> Vilapelut -> Vilabru del Clar 
+Total kilometers: 26
+
+Shortest route from Santa Francesca to Vilapelut
+-> Santa Francesca-> Santa Magdalena del Punt-> Sant Alfons-> Vilabru del Clar-> Vilapelut
+Total kilometers: 86
+
+Shortest route from Santa Fe de la Font to Sant Paco del Clot
+-> Santa Fe de la Font-> Santa Laia de l'Esbarzer-> Bellestarrufat del Sapastre-> Sant Paco del Clot
+Total kilometers: 49
+
+Shortest route from Santa Magdalena del Punt to Vallrobust del Camí
+-> Santa Magdalena del Punt-> Sant Alfons-> Vilabru del Clar-> Vilapelut-> Bellestarrufat del Sapastre-> Sant Paco del Clot-> Vallrobust del Camí
+Total kilometers: 84
